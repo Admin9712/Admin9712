@@ -16,4 +16,4 @@
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admin9712&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 
 
-<img height="120" alt="Gracias por visitar mi Perfil" width="150%" src="https://raw.githubusercontent.com/Admin9712/Admin9712/master/thx.svg"/>
+<img height="120" alt="Gracias por visitar mi Perfil" width="100%" src="https://raw.githubusercontent.com/Admin9712/Admin9712/master/thx.svg"/>
