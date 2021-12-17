@@ -5,7 +5,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Admin9712)
-br
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Admin9712&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Admin9712&hide=TeX&layout=compact)
 
