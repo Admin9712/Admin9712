@@ -15,6 +15,6 @@
 <details>
 <summary><b>Repositories</b></summary>
   
-![bot-discordjsv2](https://github-readme-stats.vercel.app/api/pin/?username=Admin9712&repo=bot-discordjsv2&show_owner=true&title_color=ff3300&text_color=33cc33&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=false)
+![bot-discordjsv2](https://github-readme-stats.vercel.app/api/pin/?username=Admin9712&repo=bot-discordjsv2&show_owner=true&title_color=ff3300&text_color=0033cc&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=false)
 
 </details>
