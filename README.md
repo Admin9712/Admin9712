@@ -19,4 +19,4 @@
 </details>
 <hr>
 
-<img height="120" alt="Gracias por visitar mi Perfil" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
+<img height="120" alt="Gracias por visitar mi Perfil" width="100%" src="https://raw.githubusercontent.com/Admin9712/Admin9712/master/thx.svg"/>
