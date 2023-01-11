@@ -6,12 +6,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Admin9712)
 
 <hr>
-<details>
-<summary><b>Repositories</b></summary>
-  
-![bot-discordjsv2](https://github-readme-stats.vercel.app/api/pin/?username=Admin9712&repo=bot-discordjsv2&show_owner=true&title_color=ff3300&text_color=0033cc&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=false)
-
-</details>
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Admin9712&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admin9712&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 
